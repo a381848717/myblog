@@ -29,3 +29,4 @@ class Article(models.Model):
         ordering = ['-create_date']
         verbose_name = "Article"
         verbose_name_plural = "Articles"
+# 姓名、性别、年龄、民族、籍贯、政治面貌、学历、联系方式，以及自我评价、工作经历、学习经历、荣誉与成就、求职愿望、对这份工作的简要理解等等
